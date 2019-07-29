@@ -88,6 +88,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGDMYVHA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ServoBoard\Design Rule Check - ServoBoard.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
