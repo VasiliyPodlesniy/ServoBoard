@@ -93,6 +93,58 @@ DocumentUniqueId=EGDMYVHA
 DocumentPath=Project Outputs for ServoBoard\Design Rule Check - ServoBoard.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for ServoBoard\NC Drill\ServoBoard.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for ServoBoard\Gerber\ServoBoard.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for ServoBoard\Gerber\ServoBoard.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for ServoBoard\Gerber\ServoBoard.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for ServoBoard\Gerber\ServoBoard.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for ServoBoard\Gerber\ServoBoard.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for ServoBoard\Gerber\ServoBoard.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for ServoBoard\Gerber\ServoBoard.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for ServoBoard\Gerber\ServoBoard.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for ServoBoard\NC Drill\ServoBoard.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for ServoBoard\Gerber\ServoBoard.REP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for ServoBoard\Gerber\ServoBoard.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for ServoBoard\NC Drill\ServoBoard.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
